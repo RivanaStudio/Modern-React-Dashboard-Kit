@@ -30,10 +30,7 @@ Modern Dashboard Kit adalah solusi *UI/UX* berbasis React yang dirancang untuk m
     npm install
     ```
 
-3.  **Konfigurasi Environment**
-    Salin file `.env.example` menjadi `.env.local` dan sesuaikan variabel yang diperlukan (seperti API Base URL atau Key lainnya jika ada).
-
-4.  **Menjalankan Aplikasi**
+3.  **Menjalankan Aplikasi**
     Mulai server pengembangan dengan perintah:
     ```bash
     npm run dev
